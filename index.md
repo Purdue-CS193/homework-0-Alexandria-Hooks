@@ -10,5 +10,5 @@
 - The PSO sessions offer time to get help with understanding a concept or getting help with code.
 - There are no exams!!
 ```
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/merlot@v0.2.0
 
